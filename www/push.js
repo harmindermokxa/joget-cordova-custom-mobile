@@ -1,7 +1,7 @@
 var MobilePush = {
     
-    CONFIG_SENDER_ID: "151651598697",
-    CONFIG_PUSH_SERVER_URL: "https://mobile.cloud.joget.com/jw/web/json/app/jms/plugin/org.joget.mobile.MobilePushPlugin/service",
+    CONFIG_SENDER_ID: "262699373699",
+    CONFIG_PUSH_SERVER_URL: "https://jogetdemo.on.joget.cloud/jw/web/json/plugin/org.joget.mobile.MobilePushPlugin/service",
     pushRegistrationId: "",
 
     init: function() {

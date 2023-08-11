@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>262699373699-53ae6avni7i7u7fr1r2t4e9qqrahfavb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.262699373699-53ae6avni7i7u7fr1r2t4e9qqrahfavb</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>262699373699-hi7j6a9g7vmocq4hgtnr0e3srir813ci.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAIgjh6XgfCo0bZ1S9gfX0yAyoEbZqsaTA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>262699373699</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harminder.mokxa</string>
+	<key>PROJECT_ID</key>
+	<string>jogetmobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jogetmobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:262699373699:ios:b2e75de7b925d13d9fb7b6</string>
+</dict>
+</plist>

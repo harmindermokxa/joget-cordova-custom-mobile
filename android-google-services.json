@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262699373699",
+    "project_id": "jogetmobile",
+    "storage_bucket": "jogetmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262699373699:android:30ceed6d1d6f98279fb7b6",
+        "android_client_info": {
+          "package_name": "com.harminder.mokxa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262699373699-hi7j6a9g7vmocq4hgtnr0e3srir813ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harminder.mokxa",
+            "certificate_hash": "b0bca1ade800ae8642ea819ae02b9f5de616adf1"
+          }
+        },
+        {
+          "client_id": "262699373699-7kie48j382v530dhev0s4pd1vamuv6er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9-qHpoOy9evMMwnqQAlaGJLb1dGagcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262699373699-7kie48j382v530dhev0s4pd1vamuv6er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
